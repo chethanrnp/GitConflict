@@ -8,5 +8,7 @@ public class Practise {
 	public void practise() {
 		System.out.println("Chetahn");
 		System.out.println("Conflict");
+		System.out.println("Chetahn");
+		System.out.println("Conflict");
 	}
 }
